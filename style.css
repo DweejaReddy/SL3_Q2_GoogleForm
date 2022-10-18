@@ -1,0 +1,26 @@
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #ec8072;
+  }
+  .head {
+    background-color: #3e0867;
+    padding: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 10px;
+    color: #e9e5e3;
+  }
+  h2 {
+    background-color: #07242a;
+    color: #ffffff;
+  }
+  .thanks {
+    background-color: #07242a;
+    color: #fff;
+    margin-top: 10px;
+    margin-bottom: 0;
+  }
+  iframe {
+    margin: 20px;
+  }
